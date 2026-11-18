@@ -18,7 +18,7 @@ All processing happens on your phone.
 - **Notifications**: used for playback controls and compression progress/completion.
 - **Biometrics**: used to unlock the app lock and secure folders with a fingerprint or face. Android handles your biometric data; the app only receives whether authentication succeeded.
 
-Each permission is requested with an explanation the first time you use the feature that needs it. If you decline, every other feature keeps working. You can revoke permissions at any time in Settings > Apps > MOA All-in-One > Permissions.
+Each permission is requested only after its purpose is shown, either on the first-run permission screen or the first time you use the feature that needs it. If you decline, every other feature keeps working. You can revoke permissions at any time in Settings > Apps > MOA All-in-One > Permissions.
 
 ## 3. Information stored on your phone
 
