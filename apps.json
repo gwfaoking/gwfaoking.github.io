@@ -1,0 +1,9 @@
+[
+  {
+    "id": "moa",
+    "name": "MOA 올인원",
+    "name_en": "MOA All-in-One",
+    "package": "com.moa.allinone",
+    "documents": ["PRIVACY"]
+  }
+]
